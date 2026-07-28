@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Finder Dashboard",
+  "description": "Modern, interactive Recipe Finder Dashboard with AI meal planning, ingredient search, nutrition tracking, and weekly scheduler.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
